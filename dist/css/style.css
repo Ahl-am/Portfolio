@@ -1,14 +1,3 @@
-/* colors
-#2e83ef
-  rgba(32,43,54,0.12)  #92A2B1  #E3E7EB  #2e83ef;background:linear-gradient(65deg, #1274ED 0, #4992F0 100%)}
-*/
-html {
-  width: 100%;
-  height: 100%;
-  margin: 0px;
-  padding: 0px;
-  overflow-x: hidden;
-}
 
 .navbar-brand, .nav-link, .navbar-toggler-icon{
   color: white !important;
