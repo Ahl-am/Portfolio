@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ahl-am/Portfolio/static/css/main.96aebac1.css",
+    "main.js": "/Ahl-am/Portfolio/static/js/main.dfb01037.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Ahl-am/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/space-with-planets.svg": "/Ahl-am/Portfolio/static/media/space-with-planets.df83d53cd4b9b188dc0c.svg",
+    "static/media/coeia.png": "/Ahl-am/Portfolio/static/media/coeia.ca26c52b92c93438e014.png",
+    "static/media/shaguf.svg": "/Ahl-am/Portfolio/static/media/shaguf.3f7e7f7c019adf4c597a4db36395f32a.svg",
+    "static/media/close.svg": "/Ahl-am/Portfolio/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
+    "static/media/menu.svg": "/Ahl-am/Portfolio/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
+    "index.html": "/Ahl-am/Portfolio/index.html",
+    "main.96aebac1.css.map": "/Ahl-am/Portfolio/static/css/main.96aebac1.css.map",
+    "main.dfb01037.js.map": "/Ahl-am/Portfolio/static/js/main.dfb01037.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Ahl-am/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96aebac1.css",
+    "static/js/main.dfb01037.js"
+  ]
+}
