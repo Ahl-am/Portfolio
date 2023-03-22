@@ -21,10 +21,10 @@ import {
       date: "JUNE 2022 - PRESENT",
       points: [
         "Implemented front-end tasks with a focus on responsiveness, accessibility and browser compatibility.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality results.",
         "Enhanced the performance of the website.",
         "Worked on integrating and customizing 3rd party libraries such as PDF.js, videojs and richtexteditor to fit the business needs.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Participated in code reviews and provided constructive feedback to other developers.",
       ],
     },
     {
@@ -44,10 +44,9 @@ import {
       company_name: "King Fahad Medical City",
       icon: kfmc,
       iconBg: "#0d1117",
-      date: "Jan 2022 - Jan 2023",
+      date: "MAY 2021 - JULY 2021",
       points: [
         "Contributed to developing a website that allows the users to apply for training using ASP.NET and Microsoft SQL Server.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
     {
@@ -55,7 +54,7 @@ import {
       company_name: "CoIEA",
       icon: coeia,
       iconBg: "#0d1117",
-      date: "JUL 2020 - NOV 2020",
+      date: "JULY 2020 - NOV 2020",
       points: [
         "Developed an online learning RESTFul web API with ASP .NET Core.",
       ],
