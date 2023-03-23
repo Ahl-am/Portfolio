@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5864a139.css",
-    "main.js": "/Portfolio/static/js/main.23912f81.js",
+    "main.js": "/Portfolio/static/js/main.6c33f720.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/space-with-planets.svg": "/Portfolio/static/media/space-with-planets.df83d53cd4b9b188dc0c.svg",
     "static/media/coeia.png": "/Portfolio/static/media/coeia.ca26c52b92c93438e014.png",
@@ -10,11 +10,11 @@
     "static/media/menu.svg": "/Portfolio/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "index.html": "/Portfolio/index.html",
     "main.5864a139.css.map": "/Portfolio/static/css/main.5864a139.css.map",
-    "main.23912f81.js.map": "/Portfolio/static/js/main.23912f81.js.map",
+    "main.6c33f720.js.map": "/Portfolio/static/js/main.6c33f720.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5864a139.css",
-    "static/js/main.23912f81.js"
+    "static/js/main.6c33f720.js"
   ]
 }
