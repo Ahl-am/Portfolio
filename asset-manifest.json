@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c8d66d94.css",
-    "main.js": "/Portfolio/static/js/main.00031279.js",
+    "main.css": "/Portfolio/static/css/main.4526cfe6.css",
+    "main.js": "/Portfolio/static/js/main.a82cd549.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/space-with-planets.svg": "/Portfolio/static/media/space-with-planets.df83d53cd4b9b188dc0c.svg",
     "static/media/coeia.png": "/Portfolio/static/media/coeia.ca26c52b92c93438e014.png",
@@ -9,12 +9,12 @@
     "static/media/close.svg": "/Portfolio/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
     "static/media/menu.svg": "/Portfolio/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "index.html": "/Portfolio/index.html",
-    "main.c8d66d94.css.map": "/Portfolio/static/css/main.c8d66d94.css.map",
-    "main.00031279.js.map": "/Portfolio/static/js/main.00031279.js.map",
+    "main.4526cfe6.css.map": "/Portfolio/static/css/main.4526cfe6.css.map",
+    "main.a82cd549.js.map": "/Portfolio/static/js/main.a82cd549.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8d66d94.css",
-    "static/js/main.00031279.js"
+    "static/css/main.4526cfe6.css",
+    "static/js/main.a82cd549.js"
   ]
 }
