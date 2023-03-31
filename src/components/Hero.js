@@ -18,8 +18,8 @@ const Hero = () => {
               <div className='w-1 sm:h-80 h-40 bg-primary-gradient' />
             </div>
             <motion.div 
-              initial={{ opacity: 0, scale: 0.95 }}
-              animate={{ opacity: 1, scale: 1 }}
+              initial={{ opacity: 0}}
+              animate={{ opacity: 1}}
               transition={{ duration: 0.5, delay: .4  }}>
                 <div>
                   <h1 className={`${styles.heroHeadText} text-white`}>

@@ -34,7 +34,7 @@ const ExperienceCard = ({ experience }) => {
       }
     >
       <div>
-        <h3 className='text-white text-[24px] font-bold'>{experience.title}</h3>
+        <h3 className='text-white sm:text-[24px] text-[20px] font-bold'>{experience.title}</h3>
         <p
           className='text-white text-[16px] font-semibold'
           style={{ margin: 0 }}
@@ -60,7 +60,7 @@ const ExperienceCard = ({ experience }) => {
 const Experience = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <motion.div variants={textVariant(0)}>
         <h2 className={`${styles.sectionHeadText} text-center`}>
           Experience
         </h2>
