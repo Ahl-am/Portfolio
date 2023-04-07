@@ -3,12 +3,12 @@
 }
 .vertical-timeline::before {
     background: #797ef9;
-    background: linear-gradient(#abb4ff, #797ef9, #0d1117);
-    background: -webkit-linear-gradient(#abb4ff, #797ef9, #0d1117);
+    background: linear-gradient(#797ef9, #648d86,#0d1117);
+    background: -webkit-linear-gradient(#797ef9, #648d86,#0d1117);
 }
 .vertical-timeline-element-icon {
-    -webkit-box-shadow: 0 0 0 4px #abb4ff,inset 0 2px 0 rgba(0,0,0,.08),0 3px 0 4px rgba(0,0,0,.05);
-    box-shadow: 0 0 0 4px #abb4ff,inset 0 2px 0 rgba(0,0,0,.08),0 3px 0 4px rgba(0,0,0,.05);
+    -webkit-box-shadow: 0 0 0 4px #797ef9,inset 0 2px 0 rgba(0,0,0,.08),0 3px 0 4px rgba(0,0,0,.05);
+    box-shadow: 0 0 0 2.5px #4d4d4d,inset 0 2px 0 rgba(0,0,0,.08),0 3px 0 4px rgba(0,0,0,.05);
 }
 .vertical-timeline-element-content{
     -webkit-box-shadow: unset;

@@ -41,7 +41,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <p className='text-white text-[18px] font-bold cursor-pointer flex'>
+          <p className='text-white sm:text-[18px] text-[15px] font-bold cursor-pointer flex'>
             Ahlam.dev
           </p>
         </Link>
@@ -50,7 +50,7 @@ const Navbar = () => {
           {navLinks.map((nav) => (
             <li
               key={nav.id}
-              className="text-white  md:text-[18px] xs:text-[14px] text-[18px] font-medium cursor-pointer"
+              className="text-white sm:text-[18px] text-[15px] font-medium cursor-pointer"
               onClick={() => setActive(nav.title)}
             >
               <a href={`#${nav.id}`}>{nav.title}</a>

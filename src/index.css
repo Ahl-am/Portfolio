@@ -15,6 +15,6 @@
 
 .bg-primary-gradient {
   background: #797ef9;
-  background: linear-gradient(#abb4ff, #797ef9, #0d1117);
-  background: -webkit-linear-gradient(#abb4ff, #797ef9, #0d1117);
+  background: linear-gradient(#797ef9, #648d86,#0d1117);
+  background: -webkit-linear-gradient(#797ef9, #648d86,#0d1117);
 }
