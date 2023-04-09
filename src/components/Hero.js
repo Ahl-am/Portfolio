@@ -1,6 +1,5 @@
 import { styles } from "../styles";
 import { motion } from "framer-motion";
-import { slideIn } from "../utils/motion";
 
 const Hero = () => {
   return (
@@ -11,9 +10,9 @@ const Hero = () => {
       transition={{ duration: 0.5, delay: .2 }}>
         <section className={`bg-hero bg-cover bg-no-repeate bg-center relative w-full h-screen mx-auto`}>
           <div
-            className={`absolute inset-0 top-[120px] max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-center gap-5`}
+            className={`absolute inset-0 max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-center gap-5`}
           >
-            <div className='flex flex-col justify-center items-center mt-5'>
+            <div className='flex flex-col justify-center items-center'>
               <div className='w-5 h-5 rounded-full bg-[#915EFF]' />
               <div className='w-1 sm:h-80 h-40 bg-primary-gradient rounded-xl' />
             </div>
